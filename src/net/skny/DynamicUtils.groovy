@@ -1,4 +1,4 @@
-package net/skny
+package net.skny
 
 class DynamicUtils implements Serializable {
     def script
